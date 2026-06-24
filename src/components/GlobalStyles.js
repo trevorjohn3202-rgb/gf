@@ -403,17 +403,7 @@ const HeartsCanvas = () => {
   return <canvas ref={ref} className="mj-canvas" style={{ width: "100%", height: "100%" }} />;
 };
 
-const notes = [
-  "Every photo of you is my favourite.",
-  "Your smile is my whole world.",
-  "The most beautiful thing I've ever seen.",
-  "You make life so much sweeter.",
-  "Radiant, always.",
-  "My heart, in a frame.",
-  "Prettier than any sunset.",
-  "You glow differently.",
-  "Pure magic.",
-];
+
 
 /* ── Hardcoded images — permanent on every device ── */
 const MIRAJ_PHOTOS = [
