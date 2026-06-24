@@ -462,7 +462,7 @@ export default function MirajWebsite() {
 
         <section className="mj-section" id="gallery">
           <h2 className="mj-section-title">My pretty girlfriend</h2>
-          <p className="mj-section-sub">Every picture tells the story of how beautiful you are</p>
+          <p className="mj-section-sub">Nani huyo AMEIVAAAAA</p>
 
           <div className="mj-grid">
             {MIRAJ_PHOTOS.map((img, i) => (
@@ -496,7 +496,7 @@ export default function MirajWebsite() {
         </section>
 
         <footer className="mj-footer">
-          <p className="mj-footer-text">Made with so much love, just for Miraj ✨</p>
+          <p className="mj-footer-text"> just for Miraj ✨</p>
           <div className="mj-footer-hearts">💗 💖 💕 💝 💓</div>
         </footer>
       </div>
